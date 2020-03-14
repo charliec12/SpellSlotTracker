@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1018435736869",
+    "firebase_url": "https://spell-slot-tracker.firebaseio.com",
+    "project_id": "spell-slot-tracker",
+    "storage_bucket": "spell-slot-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018435736869:android:db105d0a442f05c6bcb6cc",
+        "android_client_info": {
+          "package_name": "com.happyleo.spellslottrackerv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018435736869-tojhqthv131q047c6ku9b0gg1vq9t7di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtB_HQhuEE1UXWk9FJVlMTDr9fNC-T6ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018435736869-tojhqthv131q047c6ku9b0gg1vq9t7di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
